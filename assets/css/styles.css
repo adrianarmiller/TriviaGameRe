@@ -1,0 +1,46 @@
+body {
+    background-color: #ff794d;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+header {
+    font-size: 50px;
+    
+}
+
+#display-time-remaining {
+    font-size: 25px;
+}
+
+#start {
+    margin: 5px;
+    font-size:20px;
+}
+
+#finish {
+    font-size: 20px;
+}
+
+#game {
+    /*background-color: #ffcc99; 
+    background-image: linear-gradient(left, transparent 300px,rgba(39,39,39,.5) 300px, rgba(39,39,39,.5) 100%);
+    background-position: center;
+    width: 550px;
+    How to color background with this color while centering this block of text/buttons?
+    Above code has desired effect but text and background color block are aligned to left of screen
+    Saw something about liner-gradient being able to perform this 
+    */
+}
+
+.question {
+    margin-bottom: 5px;
+}
+
+.answer {
+    margin-bottom: 10px;
+}
+
+.showScore {
+
+}
